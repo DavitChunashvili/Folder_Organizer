@@ -1,0 +1,15 @@
+{
+    "Images": [".jpg", ".jpeg", ".png", ".gif",".webp"],
+    "Videos": [".mp4", ".mov", ".avi"],
+    "Music": [".mp3", ".wav",".opus"],
+    "Archives": [".zip", ".rar", ".7z"],
+    "EXE_FILES": [".exe",".msi"],
+    "PowerPoint Presentations": [".pptx"],
+    "Pdf Files": [".pdf"],
+    "Excel Files": [".xlsx"],
+    "Word Files": [".docx"],
+    "Txt Files": [".txt"],
+    "CPP_Files": [".cpp"],
+    "Python Files":[".py"],
+    "C Files": [".c"]
+}
